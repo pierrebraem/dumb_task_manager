@@ -1,7 +1,8 @@
 # Tests de l'application
 
 | Intitulé | Observation | Type | sévérité |
-| Vulnérabilités dans les packets | Quand nous installons le projet, nom nous informe qu'il y a 14 vulnérabilités | Sécurité | Critique
+| -------- | ----------- | ---- | -------- |
+| Vulnérabilités dans les packets | Quand nous installons le projet, nom nous informe qu'il y a 14 vulnérabilités | Sécurité | Critique |
 | Fond | Le fond est bleu, ce qui n'es pas du tout existétique | Design | Normal |
 | Peu de CSS | L'application est relativement pas estétique | Design | Normal |
 | Absent de hash dans les mots de passe | Les mot de passe ne sont pas hashé | Sécurité | Critique |
